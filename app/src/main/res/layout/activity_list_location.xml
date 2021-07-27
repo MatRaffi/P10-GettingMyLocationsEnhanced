@@ -18,6 +18,13 @@
             android:layout_height="wrap_content"
             android:text="Refresh" />
 
+        <Button
+            android:id="@+id/btnFav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Favorites" />
+
         <TextView
             android:id="@+id/tvRecords"
             android:layout_width="match_parent"
